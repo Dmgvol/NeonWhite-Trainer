@@ -47,6 +47,7 @@ After that, you're done, launch the game and enjoy.
  - - Note: Make sure your game has already generated that file, otherwise the game will treat it like a new save.
  - DMG_displaySettings: if set to true, will display these settings in the main menu. (Useful!)
  - DMG_enableTrainer: self-explanatory...
+ - - **Important:** enabling trainer won't send your score to the leaderboards.
  
  ### Why not use a modloader?
  This mod alters the way NeonWhite uploads score to the cloud, and how it saves, loads, and decrypts save files.</br>
