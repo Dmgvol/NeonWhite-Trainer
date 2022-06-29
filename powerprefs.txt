@@ -1,0 +1,12 @@
+{
+  "seedForLevelRushLevelOrder_NegativeValuesMeansRandomizeSeed": -1,
+  "fpsCounter": false,
+  "totalTimeCounter": false,
+  "dontSwitchCardsOnPickup": false,
+  "autoFastForwardDialogue": false,
+  "DMG_dontUploadToLeaderboards": false,
+  "DMG_saveUnencrypted": false,
+  "DMG_useNoneEncryptedSave": false,
+  "DMG_displaySettings": false,
+  "DMG_enableTrainer": false
+}
