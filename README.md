@@ -2,7 +2,7 @@
 ![](NeonWhiteTrainerBanner.png)</br>
 The trainer comes packed with awesome features, which the player can toggle them individually to their liking via `Powerprefs.txt` (all off by default).
 
-**Download:** [Assembly-CSharp.dll](https://github.com/Dmgvol/NeonNeon-Trainer/raw/main/Assembly-CSharp.dll)
+**Download:** [Assembly-CSharp.dll](https://github.com/Dmgvol/NeonWhite-Trainer/raw/main/Assembly-CSharp.dll)
 
 ### Features
 - Displays position, speed, levelID.
