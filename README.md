@@ -43,7 +43,7 @@ After that, you're done, launch the game and enjoy.
  - DMG_dontUploadToLeaderboards: if set to true, any score or PBs won't be uploaded to the leaderboards(Global+Friends)
  - DMG_saveUnencrypted: if set to true, will save an additional save file but without encryption, named `savedata_NoEncryption.dat`.
  - - Where you can view your stats, times, or even edit and use it via the next parameter.
- - DMG_useNoneEncryptedSave: if set to true, the save-game used path will be redirected to `savedata_NoEncryption.dat`.
+ - DMG_useNonEncryptedSave: if set to true, the save-game used path will be redirected to `savedata_NoEncryption.dat`.
  - - Note: Make sure your game has already generated that file, otherwise the game will treat it like a new save.
  - DMG_displaySettings: if set to true, will display these settings in the main menu. (Useful!)
  - DMG_enableTrainer: self-explanatory...
