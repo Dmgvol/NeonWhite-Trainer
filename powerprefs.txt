@@ -6,7 +6,7 @@
   "autoFastForwardDialogue": false,
   "DMG_dontUploadToLeaderboards": false,
   "DMG_saveUnencrypted": false,
-  "DMG_useNoneEncryptedSave": false,
+  "DMG_useNonEncryptedSave": false,
   "DMG_displaySettings": false,
   "DMG_enableTrainer": false
 }
